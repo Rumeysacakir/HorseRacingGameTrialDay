@@ -1,4 +1,4 @@
-# 🐴 Horse Racing Game (Vue 3 + Vite + Pinia + Tailwind)
+# Horse Racing Game (Vue 3 + Vite + Pinia + Tailwind)
 
 This is a modular rewrite of the original single-file HTML demo into a modern Vue 3 project.
 
